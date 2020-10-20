@@ -15,7 +15,7 @@
 
 ##### [ENG :us:] 
 - My name is **Ivo Neto** and i'm a Computer Science student at Universidade Potiguar - UnP and a technology enthusiast.
-- :books: I'm currently studying: HTML, CSS, JavaScript, React, Python and Git.
+- I'm currently studying: HTML, CSS, JavaScript, React, Python and Git.
 
 **Languages and Tools:**
 
@@ -31,6 +31,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=clsivo&show_icons=true&hide_border=true)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=clsivo&hide=html&layout=compac -->
 
-> :octocat: [clsivo.github.io](https://clsivo.github.io)
+> :heart:
 
 ---
