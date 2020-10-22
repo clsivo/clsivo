@@ -11,7 +11,7 @@
 
 ##### [PT :brazil:] 
 - Meu nome é **Ivo Neto** e eu sou um estudante de Ciência da Computação na Universidade Potiguar, também sou um entusiasta de tecnologia.
-- Atualmente eu estou estudando: HTML, CSS, JavaScript, React, Python and Git.
+- Atualmente eu estou estudando: HTML, CSS, JavaScript, React, Python e Git.
 
 ##### [ENG :us:] 
 - My name is **Ivo Neto** and i'm a Computer Science student at Universidade Potiguar - UnP and a technology enthusiast.
