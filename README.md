@@ -28,6 +28,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=clsivo&show_icons=true&hide_border=true&theme=dark)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=clsivo&hide=html&layout=compac -->
 
+![Snake animation](https://github.com/clsivo/clsivo/blob/output/github-contribution-grid-snake.svg)
 > 🤍
 
 ---
