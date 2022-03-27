@@ -1,34 +1,26 @@
-# :man_technologist: **Ivo Neto**
+# Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+> Olá! Eu me chamo Ivo, tenho 20 anos e estudo por conta própria.
+Sou completamente apaixonado por tecnologia em geral desde meus 4 ou 5 anos que foi quando ganhei meu primeiro computador e fucei tudo que tinha pela frente.
+>><a href="https://www.linkedin.com/in/clsivo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/clsivo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!-- EM CONSTRUÇÃO
+<a href = "mailto:contato@clsivo.com"><img src="https://img.shields.io/badge/-MAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+-->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clsivo/)](https://www.linkedin.com/in/clsivo/)
-<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivocontato1@gmail.com)](mailto:ivocontato1@gmail.com)-->
+### Linguagens:
+</div>
+<div style="display: inline_block">
+  <a href="https://github.com/clsivo">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div><br>
 
-## Hi! 👋👋
-
-
-##### [PT :brazil:] 
-- Meu nome é **Ivo Neto** e estudo por conta própria :)
-- Atualmente eu estou estudando: HTML, CSS, JavaScript, React, Python e Git.
-
-##### [ENG :uk:] 
-- My name is **Ivo Neto** and I study on my own :)
-- I'm currently studying: HTML, CSS, JavaScript, React, Python and Git.
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-## My Stats
+## Meus status
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=clsivo&show_icons=true&hide_border=true&theme=dark)
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=clsivo&hide=html&layout=compac -->
+<!-- ![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clsivo&hide=html&layout=compact&langs_count=8&theme=dark) -->
 
-![Snake animation](https://github.com/clsivo/clsivo/blob/output/github-contribution-grid-snake.svg)
-> 🤍
-
----
+🤍
