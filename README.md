@@ -1,6 +1,5 @@
 # :man_technologist: **Ivo Neto**
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/clsivo)](https://github.com/clsivo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clsivo/)](https://www.linkedin.com/in/clsivo/)
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivocontato1@gmail.com)](mailto:ivocontato1@gmail.com)-->
 
@@ -11,7 +10,7 @@
 - Meu nome é **Ivo Neto** e estudo por conta própria :)
 - Atualmente eu estou estudando: HTML, CSS, JavaScript, React, Python e Git.
 
-##### [ENG :us:] 
+##### [ENG :uk:] 
 - My name is **Ivo Neto** and I study on my own :)
 - I'm currently studying: HTML, CSS, JavaScript, React, Python and Git.
 
